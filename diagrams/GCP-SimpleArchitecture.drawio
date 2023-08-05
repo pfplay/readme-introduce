@@ -1,4 +1,4 @@
-<mxfile modified="2023-08-05T08:46:14.729Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="p0sRCbJeohenCbgaFNoS" version="21.6.6" type="github">
+<mxfile modified="2023-08-05T18:56:40.743Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ILA49P65_ouv-sqGx9VS" version="21.6.6" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="954" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
         <mxCell id="XF7Pkt1dxF7L_GEAWQAG-1018" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="993" source="XF7Pkt1dxF7L_GEAWQAG-1016" target="XF7Pkt1dxF7L_GEAWQAG-1009">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XF7Pkt1dxF7L_GEAWQAG-1016" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1A1A1A;" vertex="1" parent="993">
+        <mxCell id="XF7Pkt1dxF7L_GEAWQAG-1016" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="993">
           <mxGeometry x="120" y="95" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="994" value="&lt;font color=&quot;#000000&quot;&gt;API&lt;/font&gt;&lt;br&gt;Compute Engine&lt;hr&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Virtual Machines&lt;/font&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=compute_engine;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=top;spacingLeft=5;fontColor=#999999;fontSize=12;spacingTop=-8;" parent="993" vertex="1">
@@ -46,13 +46,13 @@
         <mxCell id="XF7Pkt1dxF7L_GEAWQAG-1017" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="993" source="XF7Pkt1dxF7L_GEAWQAG-1006" target="XF7Pkt1dxF7L_GEAWQAG-1016">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XF7Pkt1dxF7L_GEAWQAG-1006" value="&lt;font color=&quot;#f0f0f0&quot;&gt;NGINX&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1A1A1A;" vertex="1" parent="993">
+        <mxCell id="XF7Pkt1dxF7L_GEAWQAG-1006" value="&lt;font&gt;NGINX&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#A8A8A8;" vertex="1" parent="993">
           <mxGeometry y="120" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XF7Pkt1dxF7L_GEAWQAG-1029" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="993" source="XF7Pkt1dxF7L_GEAWQAG-1009" target="XF7Pkt1dxF7L_GEAWQAG-1026">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XF7Pkt1dxF7L_GEAWQAG-1009" value="&lt;font color=&quot;#f0f0f0&quot;&gt;FastAPI&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1A1A1A;" vertex="1" parent="993">
+        <mxCell id="XF7Pkt1dxF7L_GEAWQAG-1009" value="&lt;font&gt;FastAPI&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#A8A8A8;" vertex="1" parent="993">
           <mxGeometry x="121.25" y="260" width="137.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="XF7Pkt1dxF7L_GEAWQAG-1013" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="993">
