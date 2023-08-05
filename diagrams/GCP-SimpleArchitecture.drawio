@@ -1,4 +1,4 @@
-<mxfile modified="2023-08-05T18:56:40.743Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ILA49P65_ouv-sqGx9VS" version="21.6.6" type="github">
+<mxfile modified="2023-08-05T18:57:16.935Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="aFnym4CmHpjy0shi5FcU" version="21.6.6" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="954" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -56,10 +56,10 @@
           <mxGeometry x="121.25" y="260" width="137.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="XF7Pkt1dxF7L_GEAWQAG-1013" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="993">
-          <mxGeometry x="120" y="95" width="50" height="41" as="geometry" />
+          <mxGeometry x="130" y="95" width="50" height="41" as="geometry" />
         </mxCell>
         <mxCell id="XF7Pkt1dxF7L_GEAWQAG-1014" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="993">
-          <mxGeometry x="120" y="260" width="50" height="41" as="geometry" />
+          <mxGeometry x="130" y="263" width="50" height="41" as="geometry" />
         </mxCell>
         <mxCell id="XF7Pkt1dxF7L_GEAWQAG-1026" value="Cache node" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cache_node;" vertex="1" parent="993">
           <mxGeometry x="290" y="190" width="60" height="60" as="geometry" />
