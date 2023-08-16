@@ -1,6 +1,6 @@
-<mxfile modified="2023-08-05T20:41:02.587Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="KZrwbtW5Vp6ID30plh0M" version="21.6.6" type="github">
+<mxfile modified="2023-08-16T03:19:50.004Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="EBA6sEPFcFwLk_QBH-yy" version="21.6.8" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
-    <mxGraphModel dx="954" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="714" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,6 +27,9 @@
           <mxGeometry x="220" y="65.5" width="350" height="420" as="geometry" />
         </mxCell>
         <mxCell id="XF7Pkt1dxF7L_GEAWQAG-1018" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="993" source="XF7Pkt1dxF7L_GEAWQAG-1016" target="XF7Pkt1dxF7L_GEAWQAG-1009" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E2YY6AG9K5rTB0-fa3kb-999" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="993" source="XF7Pkt1dxF7L_GEAWQAG-1016" target="E2YY6AG9K5rTB0-fa3kb-998">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XF7Pkt1dxF7L_GEAWQAG-1016" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="993" vertex="1">
@@ -63,6 +66,9 @@
         </mxCell>
         <mxCell id="XF7Pkt1dxF7L_GEAWQAG-1026" value="Cache node" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cache_node;" parent="993" vertex="1">
           <mxGeometry x="290" y="190" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E2YY6AG9K5rTB0-fa3kb-998" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mysql_db_instance;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="993">
+          <mxGeometry x="200" width="60" height="64.5" as="geometry" />
         </mxCell>
         <mxCell id="XF7Pkt1dxF7L_GEAWQAG-1004" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.009;entryY=0.352;entryDx=0;entryDy=0;entryPerimeter=0;" parent="14" source="989" target="993" edge="1">
           <mxGeometry relative="1" as="geometry" />
