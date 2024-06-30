@@ -2,6 +2,8 @@
 
 **PFPlay (PFP Playground for Music)** is an interactive music streaming platform that combines PFP NFTs with DJing. This platform offers a unique community space where users can share and discover music, blending Web3 technology with musical experiences.
 
+**Visit our website: [pfplay.io](https://pfplay.io/)**
+
 ## The Explosive Growth of K-POP
 
 - **225 Million Global K-Culture Fans (2023)**: K-Pop fans have increased significantly from 9.26 million in 2012 to 225 million in 2023.
@@ -26,7 +28,7 @@ K-Pop fandom is a strong, voluntary community that supports artists by creating 
 
 Our team consists of highly talented individuals from reputable organizations in Korea and abroad, including notable names like Doonamu and CityBank. With expertise in Web3 projects, we deliver exceptional results.
 
-- **DinN, Founder**: gm@pfplay.io | Seoul, South Korea
+- **DinN, Founder**: hwaa00.why@gmail.com | Seoul, South Korea
 - **Team Members**: Skilled project managers, designers, backend and frontend developers, and experienced marketers.
 
 ## Contact Us
