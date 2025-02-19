@@ -2,7 +2,7 @@
 
 **PFPlay (PFP Playground for Music)** is an interactive music streaming platform that combines PFP NFTs with DJing. This platform offers a unique community space where users can share and discover music, blending Web3 technology with musical experiences.
 
-**Visit our website: [pfplay.io](https://pfplay.io/)**
+**Visit our website: [pfplay.xyz](https://pfplay.xyz/)**
 
 ## The Explosive Growth of K-POP
 
